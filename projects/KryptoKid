@@ -1,0 +1,31 @@
+[
+  {
+    "project": "DJKrypto",
+    "policies": [
+      "f5744b08619b634893059d42dc5dff716b3d1af88bc14143a108a761",
+      "13f50089af3abe95cc09e438f78b281c050447903674b82232ad9532",
+      "34bc42c2e012a749ff2cd6e112e04adf5d141049638e740e723fe552",
+      "fbb81d9dd8bc6fd99be16ba06c5a4f630867b8e84a5e25e613b09dd1",
+      "f332830bb20c05dd81e81e00d1068ea1cdb93fc6c3d3c4c0f5e2cb6e",
+      "fef0a090b4d3f8517cd14ab9cd725784fd9fb7adbc630e318300f5f5"
+     ]
+  },
+  {
+    "project": "KryptoKid",
+    "policies": [
+      "f8778acc561b542b8b6d2d66756c1929878b41632d5073f4a84ba44a",
+      "cc9f6b9d27ce3bf712c9149da1558bc3dcac59c4db47162d78d0540b",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  },
+  {
+    "project": "Knights of Cardano",
+    "policies": [
+      "e89448cd27f87d38b2c2f63dc207d52879bb223eac7ffd54cf273109",
+      "dfca1e9d167e488e1b6d7dea2f81e14b567583fc6be549fbf822f8a5",
+      "407a5de9a3c27f5856448b1af674bc32b3d296b7cb18615c5870bbc2",
+      "4ed5b68523fa64afe2ce0ae452778ec04b47a3f8b2d21c476fee7f3f",
+      "8f1dc7b65a526cb2cb26489f42522393fadec9e1e745493dc09f9147"
+    ]
+  }
+]
